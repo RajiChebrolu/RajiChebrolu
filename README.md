@@ -1,5 +1,16 @@
 ## Hi👋, I am Raji Chebrolu
 
+Full Stack Developer | Tech BA Aspirant | EvoVeo Tech Intern
+
+## 🚀 Skills
+- Backend Development Skills: Java, Springboot, PostgreSQL, REST APIs & Microservices, Docker, Python, Django, PHP, Laravel (Basic), C#, MySQL, MongoDB
+- REST APIs & Microservices
+- Docker & GitHub Actions
+- CMS Development Skills: WordPress (Elementor, WP Forms)
+- Mobile Development Skills: React Native
+- Frontend Development Skills: HTML, CSS, JavaScript, React, SaaS, Bootstrap, UI/UX Design (Figma)
+
+
 <!--
 **RajiChebrolu/RajiChebrolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
