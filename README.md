@@ -15,7 +15,7 @@ Full Stack Developer | Tech BA Aspirant | EvoVeo Tech Intern
 [LinkedIn] (https://www.linkedin.com/in/rajyalakshmichebrolu/)
 [Portfolio] (https://rajichebrolu.github.io/myPortfolio/)
 
-- 🔭 I’m currently working on ...
+
 <!--
 **RajiChebrolu/RajiChebrolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
