@@ -1,14 +1,19 @@
 ## Hi👋, I am Raji Chebrolu
 
-Full Stack Developer | Tech BA Aspirant | EvoVeo Tech Intern
+Software Engineer | Full Stack Developer | Tech BA Aspirant | #EvoVeo Tech 
 
 ## 🚀 Skills
-- Backend Development Skills: Java, Springboot, PostgreSQL, REST APIs & Microservices, Docker, Python, Django, PHP, Laravel (Basic), C#, MySQL, MongoDB
-- REST APIs & Microservices
-- Docker & GitHub Actions
-- CMS Development Skills: WordPress (Elementor, WP Forms)
-- Mobile Development Skills: React Native
-- Frontend Development Skills: HTML, CSS, JavaScript, React, SaaS, Bootstrap, UI/UX Design (Figma)
+
+- Languages: Java, Python, JavaScript, C#, PHP
+- Frameworks: Spring Boot, Django, React, Laravel
+- Backend: REST APIs, Microservices Architecture
+- Frontend: HTML5, CSS3, Bootstrap, SCSS, UI/UX Design (Figma)
+- Databases: PostgreSQL, MySQL, MongoDB
+- Cloud & DevOps: AWS (Fundamentals), Microsoft Azure (Fundamentals), CI/CD Pipelines, Docker
+- Testing & Tools: Junit, Unit Testing, Git, Postman, VS Code, UML, Android Studio
+- Methodologies: Agile, Scrum
+- CMS & Web Platforms: WordPress (Elementor)
+- Mobile Development: React Native
 
 
 ## 📫 Connect
